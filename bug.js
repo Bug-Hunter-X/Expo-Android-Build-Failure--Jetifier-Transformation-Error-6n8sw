@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android app and involves the `jetifier` process.  The error message typically indicates that `jetifier` failed to transform a particular dependency.  This often happens when there are conflicts between libraries, especially those using different versions of Android support libraries.
